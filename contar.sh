@@ -1,5 +1,4 @@
 #!/bin/bash
-
 for i in {1..5}
 do
     cadena=$(wc -l loremipsum-$i.txt)
